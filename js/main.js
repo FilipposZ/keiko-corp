@@ -47,22 +47,8 @@ $(document).ready(function(){
 	);
 	wow.init();
 
-
-
-
-
-
-
-
 	//parallax effect initialization
 	$('.hero').parallax("50%", 0.3);
-
-
-
-
-
-
-
 
 	//Nice scroll initialization
 	$("html").niceScroll({
